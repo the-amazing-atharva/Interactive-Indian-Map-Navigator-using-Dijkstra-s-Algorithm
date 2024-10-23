@@ -1,0 +1,5 @@
+FOR USING LOCALLY: 
+
+1. cd into directory
+2. type: node server.js
+3. open index.html in browser
