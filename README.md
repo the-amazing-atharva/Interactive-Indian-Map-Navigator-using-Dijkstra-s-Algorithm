@@ -115,6 +115,10 @@ Content-Type: application/json
 }
 ```
 
+![image](https://github.com/user-attachments/assets/dcf6c456-04aa-4bd2-94b5-5f1d89de8bca)
+
+
+
 ## 📖 Usage
 1. Start the server:
 ```
